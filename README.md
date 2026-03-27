@@ -217,7 +217,7 @@ The pipeline will generate:
 - [High-quality trimmed reads](clean_R1_fastqchtml)   ,    [High-quality trimmed reads](clean_R2_fastqchtml)  
 - [Fastp_repport](rapport_fastp.html)
 - Mapping statistics: [View file](results/covid_stats.txt) 
-- [Variant file](results/variantes.vcf)  
+- Variant: [Variant file](results/variantes.vcf)  
 
 ---
 
