@@ -213,11 +213,11 @@ Using the dataset:
 
 The pipeline will generate:
 
-- [FASTQC](SRR11140744_1_fastqchtml) [FASTQC](SRR11140744_2_fastqchtml)
-- [High-quality trimmed reads](clean_R1_fastqchtml) [High-quality trimmed reads](clean_R2_fastqchtml)  
+- [FASTQC](SRR11140744_1_fastqchtml)  ,   [FASTQC](SRR11140744_2_fastqchtml)
+- [High-quality trimmed reads](clean_R1_fastqchtml)   ,    [High-quality trimmed reads](clean_R2_fastqchtml)  
 - [Fastp_repport](rapport_fastp.html)
-- [Mapping statistics] (covid_stats.txt) 
-- [Variant file] (vcf_captur.jpg)  
+- [Mapping statistics] ("covid_stats.txt") 
+- [Variant file] ("vcf_captur.jpg")  
 
 ---
 
